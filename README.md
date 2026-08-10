@@ -2,9 +2,13 @@
 
 A full-stack, voice-controlled virtual assistant with a custom Marvel-themed avatar, natural language command handling, and AI-powered responses.
 
-**[🚀 View Live Demo](https://virtualassistant-ipih.onrender.com/)**
+**[🚀 View Live Demo](https://virtualassistant-ipih.onrender.com/)** — sign up with any email to try it. Render's free tier may take 30–60 seconds to wake up on first load.
 
-> Note: the app is hosted on Render's free tier, so the backend may take 30–60 seconds to spin up on first load if it's been idle.
+---
+
+## About
+
+Marvel VA is a full-stack voice assistant that listens for its name, sends what you say to Google's Gemini API for intent classification, and replies out loud — all in the browser. Pick a Marvel-styled avatar (or upload your own), name your assistant, and talk to it naturally: ask it to search Google, play something on YouTube, tell you the time, or answer a general question. Built with React and the Web Speech API on the frontend, and Node.js, Express, MongoDB, and Cloudinary on the backend.
 
 ---
 
@@ -107,8 +111,8 @@ Marvel VA lets a user sign up, pick (or upload) an avatar for their personal ass
 
 **1. Clone the repo**
 ```bash
-git clone(https://github.com/bhavishyapatle/virtualAssistant/)>
-cd <your-repo-folder>
+git clone https://github.com/bhavishyapatle/virtualAssistant.git
+cd virtualAssistant
 ```
 
 **2. Backend setup**
@@ -158,4 +162,4 @@ The app will be running at `http://localhost:5173`.
 
 ## Author
 
-Built by [Bhavishya Patle] — feel free to connect or reach out with feedback.
+Built by **Bhavishya Patle** — feel free to connect or reach out with feedback.
