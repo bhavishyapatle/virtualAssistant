@@ -2,7 +2,7 @@
 
 A full-stack, voice-controlled virtual assistant with a custom Marvel-themed avatar, natural language command handling, and AI-powered responses.
 
-**Live Demo:**(https://virtualassistant-ipih.onrender.com/)
+**Live Demo:**https://virtualassistant-ipih.onrender.com/
 
 > Note: the app is hosted on Render's free tier, so the backend may take 30–60 seconds to spin up on first load if it's been idle.
 
