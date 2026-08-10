@@ -107,7 +107,7 @@ Marvel VA lets a user sign up, pick (or upload) an avatar for their personal ass
 
 **1. Clone the repo**
 ```bash
-git clone <[your-repo-url](https://github.com/bhavishyapatle/virtualAssistant/)>
+git clone(https://github.com/bhavishyapatle/virtualAssistant/)>
 cd <your-repo-folder>
 ```
 
