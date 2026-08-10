@@ -10,7 +10,7 @@ import userRouter from "./routes/userRoutes.js"
 
 const app = express()
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://virtualassistant-ipih.onrender.com",
     credentials: true
 }))
 const port = process.env.PORT  || 5000
